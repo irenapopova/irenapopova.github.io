@@ -10,7 +10,7 @@ redirect_from:
 
 WELCOME 💚 I am a Linguist & 💻 Full stack developer. A researcher .
 
-# A data-driven perersonall interest
+# A FullStack Developer & Linguist
 
 I earned my Master D. in Linguistics from the [South West University in Bulgaria](https)
 the markdown files! Finally, you can also write scripts that process the structured data on the site, such as
