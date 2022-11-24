@@ -11,28 +11,28 @@ redirect_from:
 
 # Education
 
-👉 Software Engineering - SoftUni -Bulgaria
+Sept 2017 - 2021 👉 Software Engineering - SoftUni -Bulgaria
 
-💻 Web Development  Modules:
+💻 Web Development Modules:
 
-#### Entry Module 
+### Entry Module 
 
-Programming Basics with Java - September 2017
+- Programming Basics with Java
 
-#### Fundamental Module 
+### Fundamental Module 
 
-- Programming Basics with JavaScript - May 2017
+- Programming with JavaScript
 
-#### JavaScript for Front-End - October 2017
+### JavaScript for Front-End - October 2017
 
 - Professional Modules for JavaScript Web Developer
 - Core Module - JS Essentials, JS Advanced, JS Apps (2018)
 
-#### Web Module - NodeJS, React ,  
+### Web Module - NodeJS, React ,  
 
-#### Front-End Module - HTML & CSS, CSS advanced course (2018)
+### Front-End Module - HTML & CSS, CSS advanced course (2018)
 
-#### React Web Applications Masterclass - Course October 2019
+### React Web Applications Masterclass - Course October 2019
 
 👉 **Applied Linguistics - Master Degree 1993 -1998**
 
@@ -45,7 +45,7 @@ South-West University - Neophit Risly, Bulgaria
 
 # Work experience
 
-**May 2021 - April 2021** Web Developer Trainee, JavaScript Teaching Assistant & Ambassador
+**May 2021 - April 2021** 👉 Web Developer Trainee, JavaScript Teaching Assistant & Ambassador
 
 Digital Career Institute - Berlin, Germany
 
@@ -55,9 +55,9 @@ Digital Career Institute - Berlin, Germany
 - Assessing customer  needs
 - Handling customer complains and answering their questions regarding the Web Development program
 - Preparing Presentations, exercises & lectures for the workshops
-- Coordinating with new clients in German & English
+- Coordinating with new clients in German & English via Coding Workshops to introduce the courses curriculum.
 
-**Sept 2017 - Aug 2019** English & Informatik Teacher
+**Sept 2017 - Aug 2019** 👉 English & Informatik Teacher
 Internationaler Bund - Neuenhagen bei Berlin, Germany
 
 - Created an UI application  about library management
