@@ -19,9 +19,7 @@ redirect_from:
 
 - Programming Basics with Java
 
-### Fundamental Module 
-
-- Programming with JavaScript
+### Fundamental Module  👉 Programming with JavaScript
 
 ### JavaScript for Front-End - October 2017
 
