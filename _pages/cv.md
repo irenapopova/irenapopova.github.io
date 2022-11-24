@@ -11,9 +11,33 @@ redirect_from:
 
 # Education
 
-- B.S. in GitHub, GitHub University, 2012
-- M.S. in Jekyll, GitHub University, 2014
-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+👉 Applied Linguistics - Master Degree 1993 -1998
+
+👉 Software Engineering - SoftUni -Bulgaria
+
+💻 Web Development  Modules:
+
+#### Entry Module 
+
+Programming Basics with Java - September 2017
+
+#### Fundamental Module 
+
+- Programming Basics with JavaScript - May 2017
+
+#### JavaScript for Front-End - October 2017
+
+- Professional Modules for JavaScript Web Developer
+- Core Module - JS Essentials, JS Advanced, JS Apps (2018)
+
+#### Web Module - NodeJS, React ,  
+
+#### Front-End Module - HTML & CSS, CSS advanced course (2018)
+
+#### React Web Applications Masterclass - Course October 2019
+
+👉 **Applied Linguistics - Master Degree 1993 -1998**
+South-West University - Neophit Risly, Bulgaria - English and German, Sociolinguistic, Computational Linguistics, Literature
 
 # Work experience
 
