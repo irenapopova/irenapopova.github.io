@@ -45,7 +45,22 @@ South-West University - Neophit Risly, Bulgaria
 
 # Work experience
 
-Sept 2017 - Aug 2029 English & Informatik Teacher
+
+**May 2021 - April 2021** Web Developer Trainee, JavaScript Teaching Assistant & Ambassador
+
+Digital Career Institute - Berlin, Germany
+
+- Development of multiple workshops & projects using JavaScript & React
+
+- Organizing Coding Workshops & presenting for DCI Students
+- Assessing customer  needs
+- Handling customer complains and answering their questions regarding the Web Development program
+- Preparing Presentations, exercises & lectures for the workshops
+- Coordinating with new clients in German & English
+  
+
+
+**Sept 2017 - Aug 2019** English & Informatik Teacher
 Internationaler Bund - Neuenhagen bei Berlin, Germany
 
 - Created an UI application  about library management
