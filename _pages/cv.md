@@ -13,7 +13,7 @@ redirect_from:
 
 **Sept 2017 - 2021** 👉 Software Engineering - SoftUni -Bulgaria
 
-💻 Web Development Modules:
+💻 **Fullstack Web Development**
 
 ### Entry Module 
 
