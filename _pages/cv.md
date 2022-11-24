@@ -98,7 +98,7 @@ redirect_from:
 - Organizing **Hack with Peers Nights** (JavaScript, CSS, React)
 
 **JavaScript / React Mentor Volunteer - FrontEnd Cycle**
-ReDi School for Digital Integratio
+ReDi School for Digital Integration
 
 # Publications
 

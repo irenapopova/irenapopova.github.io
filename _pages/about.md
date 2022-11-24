@@ -19,6 +19,8 @@ the markdown files! Finally, you can also write scripts that process the structu
 
 # Getting enchanted from coding
 
+I have passion for languages & coding. I enjoy working with others to produce a better outcome. Facilitating discussions and coordinating different streams of work flow.  I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. Deep full-stack experience includes Node.js and Express, MongoDB
+
 ## Site-wide configuration
 
 The main
