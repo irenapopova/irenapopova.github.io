@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-Sept 2017 - 2021 👉 Software Engineering - SoftUni -Bulgaria
+**Sept 2017 - 2021** 👉 Software Engineering - SoftUni -Bulgaria
 
 💻 Web Development Modules:
 
@@ -34,7 +34,7 @@ Sept 2017 - 2021 👉 Software Engineering - SoftUni -Bulgaria
 
 ### React Web Applications Masterclass - Course October 2019
 
-👉 **Applied Linguistics - Master Degree 1993 -1998**
+**1993 - 1998** 👉 **Master Degree in Applied Linguistics**
 
 South-West University - Neophit Risly, Bulgaria
 
