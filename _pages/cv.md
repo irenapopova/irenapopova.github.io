@@ -47,7 +47,7 @@ South-West University - Neophit Risly, Bulgaria
 
 **May 2021 - April 2021** 👉 Web Developer Trainee, JavaScript Teaching Assistant & Ambassador
 
-Digital Career Institute - Berlin, Germany
+**Digital Career Institute - Berlin, Germany**
 
 - Development of multiple workshops & projects using JavaScript & React
 
@@ -57,8 +57,9 @@ Digital Career Institute - Berlin, Germany
 - Preparing Presentations, exercises & lectures for the workshops
 - Coordinating with new clients in German & English via Coding Workshops to introduce the courses curriculum.
 
-**Sept 2017 - Aug 2019** 👉 English & Informatik Teacher
-Internationaler Bund - Neuenhagen bei Berlin, Germany
+**Sept 2017 - Aug 2019** 👉 **English & Informatik Teacher**
+
+**Internationaler Bund - Neuenhagen bei Berlin, Germany**
 
 - Created an UI application  about library management
 - Developed a designer’s concepts to life with HTML, CSS, and JavaScript
@@ -69,16 +70,18 @@ Internationaler Bund - Neuenhagen bei Berlin, Germany
 - Founded a Coding Club for Teens to make them more engaged in the learning process.
 - Attended  GitHub Constellation event  and Jenkins event
 
-- Summer 2011: TEFL Teacher
+  # 2011: **TEFL Teacher**
 
-  - Darbi Collage - Sofia, Bulgaria
-  - Duties included: Teaching English as a Foreign Language
+  **Darbi Collage - Sofia, Bulgaria**
+
+  - Teaching English as a Foreign Language to adults
+  - Cambridge Exam Preparation -(IELTS, CAE, FCE)
+  - TOEFL Exam Preparation
+
+- Fall 2010: Research Assistant
+  - English Literature
+  - Duties included: Writing a thesis
   - Supervisor:
-
-- Fall 2015: Research Assistant
-  - Github University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
 
 # Skills
 
