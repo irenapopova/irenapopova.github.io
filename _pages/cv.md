@@ -25,18 +25,16 @@ redirect_from:
 
 ### JavaScript for Front-End - October 2017
 
-- Professional Modules for JavaScript Web Developer
+**Professional Modules for JavaScript Web Developer**
+
 - Core Module - JS Essentials, JS Advanced, JS Apps (2018)
+- Web Module - NodeJS, React ,
+- Front-End Module - HTML & CSS, CSS advanced course (2018)
+- React Web Applications Masterclass - Course October 2019
 
-### Web Module - NodeJS, React ,  
+**Oct 1993 - July 1998** 👉 **Master Degree in Applied Linguistics**
 
-### Front-End Module - HTML & CSS, CSS advanced course (2018)
-
-### React Web Applications Masterclass - Course October 2019
-
-**1993 - 1998** 👉 **Master Degree in Applied Linguistics**
-
-South-West University - Neophit Risly, Bulgaria
+**South-West University - Neophit Risly, Bulgaria**
 
 - English and German,
 - Sociolinguistic,
@@ -70,7 +68,7 @@ South-West University - Neophit Risly, Bulgaria
 - Founded a Coding Club for Teens to make them more engaged in the learning process.
 - Attended  GitHub Constellation event  and Jenkins event
 
-  # 2011: **TEFL Teacher**
+  ## 2011: **TEFL Teacher**
 
   **Darbi Collage - Sofia, Bulgaria**
 
