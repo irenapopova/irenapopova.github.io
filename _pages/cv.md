@@ -36,12 +36,12 @@ Programming Basics with Java - September 2017
 
 👉 **Applied Linguistics - Master Degree 1993 -1998**
 
-    South-West University - Neophit Risly, Bulgaria
+South-West University - Neophit Risly, Bulgaria
 
-        - English and German,
-        - Sociolinguistic,
-        - Computational Linguistics,
-        - Literature
+- English and German,
+- Sociolinguistic,
+- Computational Linguistics,
+- Literature
 
 # Work experience
 
@@ -86,3 +86,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+![irena_popova](resume_popova.pdf)
