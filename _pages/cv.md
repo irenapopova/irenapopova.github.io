@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-**Sept 2017 - 2021** 👉 Software Engineering - SoftUni -Bulgaria
+**Sept 2017 - 2021** 👉 **Software Engineering** - SoftUni -Bulgaria
 
 💻 **Fullstack Web Development**
 
@@ -37,7 +37,7 @@ redirect_from:
 - English and German,
 - Sociolinguistic, History
 - Computational Linguistics,
-- Literature
+- British, American & European Literature
 
 # Work experience
 
@@ -46,7 +46,6 @@ redirect_from:
 **Digital Career Institute - Berlin, Germany**
 
 - Development of multiple workshops & projects using JavaScript & React
-
 - Organizing Coding Workshops & presenting for DCI Students
 - Assessing customer  needs
 - Handling customer complains and answering their questions regarding the Web Development program
@@ -71,7 +70,7 @@ redirect_from:
   **Darbi Collage - Sofia, Bulgaria**
 
   - Teaching English as a Foreign Language to adults
-  - Cambridge Exam Preparation -**(IELTS, CAE, FCE)**
+  - Cambridge Exam Preparation -**( IELTS, CPE, CAE, FCE )**
   - TOEFL Exam Preparation
 
 - Fall 2010: Research Assistant
@@ -90,13 +89,16 @@ redirect_from:
 
 # Mentoring & Valonteering Missions
 
-Jan 2021 Women Tech Makers Berlin, Germany
+**Jan 2021 Women Tech Makers Berlin, Germany**
 
 **Tech Writer & Ambassador**
 
 - Tech Writer (JavaScript, CSS, Python for beginners)
 - Organizing events & Coding Workshops - JavaScript Fundamentals,
 - Organizing **Hack with Peers Nights** (JavaScript, CSS, React)
+
+**JavaScript / React Mentor Volunteer - FrontEnd Cycle**
+ReDi School for Digital Integratio
 
 # Publications
 
