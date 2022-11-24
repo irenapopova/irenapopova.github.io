@@ -11,8 +11,6 @@ redirect_from:
 
 # Education
 
-👉 Applied Linguistics - Master Degree 1993 -1998
-
 👉 Software Engineering - SoftUni -Bulgaria
 
 💻 Web Development  Modules:
@@ -37,15 +35,21 @@ Programming Basics with Java - September 2017
 #### React Web Applications Masterclass - Course October 2019
 
 👉 **Applied Linguistics - Master Degree 1993 -1998**
-South-West University - Neophit Risly, Bulgaria - English and German, Sociolinguistic, Computational Linguistics, Literature
+
+    South-West University - Neophit Risly, Bulgaria
+
+        - English and German,
+        - Sociolinguistic,
+        - Computational Linguistics,
+        - Literature
 
 # Work experience
 
-- Summer 2015: TEFL Assistant
+- Summer 2011: TEFL Teacher
 
-  - South-West University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+  - Darbi Collage - Sofia, Bulgaria
+  - Duties included: Teaching English as a Foreign Language
+  - Supervisor:
 
 - Fall 2015: Research Assistant
   - Github University
