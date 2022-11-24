@@ -35,7 +35,7 @@ redirect_from:
 **South-West University - Neophit Risly, Bulgaria**
 
 - English and German,
-- Sociolinguistic,
+- Sociolinguistic, History
 - Computational Linguistics,
 - Literature
 
@@ -71,7 +71,7 @@ redirect_from:
   **Darbi Collage - Sofia, Bulgaria**
 
   - Teaching English as a Foreign Language to adults
-  - Cambridge Exam Preparation -(IELTS, CAE, FCE)
+  - Cambridge Exam Preparation -**(IELTS, CAE, FCE)**
   - TOEFL Exam Preparation
 
 - Fall 2010: Research Assistant
@@ -90,11 +90,13 @@ redirect_from:
 
 # Mentoring & Valonteering Missions
 
-Jan 2021 Women Tech Makers Berlin , Germany Tech Writer & Ambassador
+Jan 2021 Women Tech Makers Berlin, Germany
+
+**Tech Writer & Ambassador**
 
 - Tech Writer (JavaScript, CSS, Python for beginners)
 - Organizing events & Coding Workshops - JavaScript Fundamentals,
-- Organizing Hack with Peers Nights (JavaScript, CSS, React)
+- Organizing **Hack with Peers Nights** (JavaScript, CSS, React)
 
 # Publications
 
