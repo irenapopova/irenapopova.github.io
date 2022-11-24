@@ -45,6 +45,18 @@ South-West University - Neophit Risly, Bulgaria
 
 # Work experience
 
+Sept 2017 - Aug 2029 English & Informatik Teacher
+Internationaler Bund - Neuenhagen bei Berlin, Germany
+
+- Created an UI application  about library management
+- Developed a designer’s concepts to life with HTML, CSS, and JavaScript
+- Implemented responsive design for mobile sites
+- Tested the site during development for usability and fixing any bugs
+- Coordinated  a balance between functional and aesthetic design
+- Performed comparative research to determine the cause of issues and identify areas - needing improvement.
+- Founded a Coding Club for Teens to make them more engaged in the learning process.
+- Attended  GitHub Constellation event  and Jenkins event
+
 - Summer 2011: TEFL Teacher
 
   - Darbi Collage - Sofia, Bulgaria
