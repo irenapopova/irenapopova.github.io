@@ -45,7 +45,6 @@ South-West University - Neophit Risly, Bulgaria
 
 # Work experience
 
-
 **May 2021 - April 2021** Web Developer Trainee, JavaScript Teaching Assistant & Ambassador
 
 Digital Career Institute - Berlin, Germany
@@ -57,8 +56,6 @@ Digital Career Institute - Berlin, Germany
 - Handling customer complains and answering their questions regarding the Web Development program
 - Preparing Presentations, exercises & lectures for the workshops
 - Coordinating with new clients in German & English
-  
-
 
 **Sept 2017 - Aug 2019** English & Informatik Teacher
 Internationaler Bund - Neuenhagen bei Berlin, Germany
@@ -91,6 +88,14 @@ Internationaler Bund - Neuenhagen bei Berlin, Germany
   - Sub-skill 2.2
   - Sub-skill 2.3
 - Skill 3
+
+# Mentoring & Valonteering Missions
+
+Jan 2021 Women Tech Makers Berlin , Germany Tech Writer & Ambassador
+
+- Tech Writer (JavaScript, CSS, Python for beginners)
+- Organizing events & Coding Workshops - JavaScript Fundamentals,
+- Organizing Hack with Peers Nights (JavaScript, CSS, React)
 
 # Publications
 
