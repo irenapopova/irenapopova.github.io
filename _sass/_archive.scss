@@ -61,9 +61,18 @@
   margin-top: 0;
   font-size: $type-size-6;
 
+  p {
+    margin-top: 0;
+    margin-bottom: 0.35em;
+  }
+
   & + p {
     text-indent: 0;
   }
+}
+
+.archive__item .page__date {
+  margin-bottom: 0.2em;
 }
 
 .archive__item-teaser {
@@ -81,6 +90,44 @@
 
   .archive__item-title {
     text-decoration: underline;
+  }
+}
+
+.selected-publications-block {
+  h3 {
+    color: #111 !important;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-top: 1.75rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .selected-publication-item {
+    margin-bottom: 1rem;
+  }
+
+  .selected-publication-title,
+  .selected-publication-title a {
+    color: #d11a2a !important;
+    display: block;
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.35;
+    margin-top: 0 !important;
+    margin-bottom: 0.02rem !important;
+  }
+
+  p {
+    margin-top: 0 !important;
+    margin-bottom: 0.12rem;
+  }
+
+  .selected-publication-title + p {
+    margin-top: 0 !important;
+  }
+
+  a {
+    color: inherit;
   }
 }
 

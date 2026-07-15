@@ -86,7 +86,7 @@ author:
   location         : "Berlin, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=aqPbUQcAAAAJ"
   email            : "irenejpopova6@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://irenapopova.com/"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/irenapopova"
+  github           : "irenapopova"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/irena-popova/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "irena-popova"
+  orcid            : "https://orcid.org/0009-0003-2506-4537"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
