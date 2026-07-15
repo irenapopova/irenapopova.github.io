@@ -138,13 +138,55 @@ author_profile: true
 </div>
 
 <div class="selected-publication-category">
-<h3>Additional Publication</h3>
+<h3>Featured Publication</h3>
 
 <div class="selected-publication-item">
-  <p class="selected-publication-title"><a href="https://irenapopova.github.io/publication/2015-10-01-paper-title-number-3">Paper Title Number 3</a></p>
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2015-10-01-from-natural-language-to-computational-thinking">From Natural Language to Computational Thinking: Linguistic Foundations of Introductory Programming Education</a></p>
   <p>Published in <i>Journal 1</i>, 2015</p>
-  <p>This paper is about the number 3. The number 4 is left for future work.</p>
-  <p>Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). <a href="http://academicpages.github.io/files/paper3.pdf">http://academicpages.github.io/files/paper3.pdf</a></p>
+  <p>A conceptual paper on how linguistic awareness supports computational thinking and introductory programming education.</p>
+  <p>Recommended citation: Irena Popova. (2015). "From Natural Language to Computational Thinking: Linguistic Foundations of Introductory Programming Education." <i>Journal 1</i>. 1(3). <a href="http://academicpages.github.io/files/paper3.pdf">http://academicpages.github.io/files/paper3.pdf</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2024-03-20-human-language-and-computational-thinking">Human Language and Computational Thinking</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2024</p>
+  <p>An academic article on the relationship between human language, abstraction, reasoning, and computational thinking in early programming education.</p>
+  <p>Recommended citation: Irena Popova (2024). "Human Language and Computational Thinking." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2024-03-20-human-language-and-computational-thinking">Access publication here</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2026-06-20-computational-thinking-and-language-acquisition">Computational Thinking and Language Acquisition</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2026</p>
+  <p>An academic article on the relationship between language acquisition, cognitive development, and computational thinking.</p>
+  <p>Recommended citation: Irena Popova (2026). "Computational Thinking and Language Acquisition." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2026-06-20-computational-thinking-and-language-acquisition">Access publication here</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2026-06-24-language-development-and-conceptual-growth">Language Development and Conceptual Growth</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2026</p>
+  <p>An academic article on language development as a process of cognitive expansion, conceptual refinement, and structured expression.</p>
+  <p>Recommended citation: Irena Popova (2026). "Language Development and Conceptual Growth." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2026-06-24-language-development-and-conceptual-growth">Access publication here</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2024-03-22-language-acquisition-and-rule-formation">Language Acquisition and Rule Formation</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2024</p>
+  <p>An academic article on how learners build rules, patterns, and structured understanding in language acquisition.</p>
+  <p>Recommended citation: Irena Popova (2024). "Language Acquisition and Rule Formation." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2024-03-22-language-acquisition-and-rule-formation">Access publication here</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2025-03-21-grammar-awareness-and-linguistic-control">Grammar Awareness and Linguistic Control</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2025</p>
+  <p>An academic article on grammar awareness as a foundation for self-correction, linguistic precision, and stronger control of language.</p>
+  <p>Recommended citation: Irena Popova (2025). "Grammar Awareness and Linguistic Control." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2025-03-21-grammar-awareness-and-linguistic-control">Access publication here</a></p>
+</div>
+
+<div class="selected-publication-item">
+  <p class="selected-publication-title"><a href="{{ base_path }}/publication/2024-06-24-grammar-awareness-and-learning-precision">Grammar Awareness and Learning Precision</a></p>
+  <p>Published in <i>Research and Academic Work</i>, 2024</p>
+  <p>An academic article on grammar awareness as a foundation for conscious language learning, interpretation, and precision.</p>
+  <p>Recommended citation: Irena Popova (2024). "Grammar Awareness and Learning Precision." <i>Research and Academic Work</i>. <a href="{{ base_path }}/publication/2024-06-24-grammar-awareness-and-learning-precision">Access publication here</a></p>
 </div>
 </div>
 
