@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Irena Popova"
+title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Irena popova"
 description              : &description "FullStack Developer & Linguist"

@@ -1,15 +1,19 @@
 ---
 title: "NLP in Education"
+
 date: 2026-06-20
 permalink: /posts/2026/06/nlp-in-education/
 tags:
   - research notes
   - nlp
   - education technology
+
+vgwort:
 ---
 
+
+
 This is a short draft post on natural language processing in education, especially where applied linguistics, computer science education, and educational innovation meet. It is intentionally brief for now so we can test the blog layout with real titles.
-# NLP in Education: From Automated Language Processing to Meaningful Learning
 
 Natural language processing has become increasingly visible in education through writing assistants, automated feedback systems, conversational tutors, translation tools, reading-support applications, and generative artificial intelligence. Yet its educational significance cannot be understood by examining technical performance alone. A system may identify grammatical patterns, classify responses, generate explanations, or imitate instructional dialogue without necessarily contributing to meaningful learning. The central question is therefore not simply what natural language processing can do, but what forms of intellectual, linguistic, and pedagogical development it should support.
 
@@ -173,7 +177,7 @@ The field also needs stronger distinctions between tutoring, assistance, assessm
 
 Participatory design can contribute to this research agenda by treating students and teachers as sources of knowledge rather than passive recipients of innovation. Their experiences reveal which forms of support are useful, intrusive, confusing, or pedagogically counterproductive. Such participation should extend beyond usability testing to decisions about purpose, data, interpretation, and acceptable limits.
 
-## Conclusion
+## Final grasp
 
 Natural language processing can enrich education, but its contribution should not be defined by the amount of language it can generate or the number of tasks it can automate. Its deeper potential lies in supporting the processes through which learners develop concepts, examine language, test interpretations, and participate in disciplinary forms of knowledge.
 
@@ -194,4 +198,3 @@ Schaller, N.-J., Ding, Y., Horbach, A., Meyer, J., and Jansen, T. (2024). *Fairn
 Siyan, L., Shao, T., Hirschberg, J., and Yu, Z. (2024). *Using Adaptive Empathetic Responses for Teaching English.* Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications, 34–53.
 
 UNESCO. (2023). *Guidance for Generative AI in Education and Research.* Paris: UNESCO.
-
