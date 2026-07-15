@@ -645,5 +645,6 @@ Qian, Y., & Lehman, J. (2017). Students’ misconceptions and other difficulties
 Wing, J. M. (2006). Computational thinking. *Communications of the ACM, 49*(3), 33–35. doi:10.1145/1118178.1118215
 
 Ynostroza, A., Celedón-Pattichis, S., Pattichis, M. S., Tovar, I., & Ibarra, M. (2025). Translanguaging in computer programming: “¿Qué no es un cereal?” *International Journal of Multicultural Education, 27*(1), 190–218. doi:10.18251/ijme.v27i1.4847
+© 2023 Irena Popova. All rights reserved.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)

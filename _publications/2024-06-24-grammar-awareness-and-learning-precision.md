@@ -164,3 +164,5 @@ Grammar education is therefore most meaningful when it enables learners not mere
 
 
 Read article on my website: <https://www.irena-popova.com/research-and-academic-work/grammar-awareness-and-learning-precision>
+
+© 2023 Irena Popova. All rights reserved.
