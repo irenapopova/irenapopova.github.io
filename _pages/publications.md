@@ -45,6 +45,10 @@ author_profile: true
   margin-top: 0 !important;
   margin-bottom: 0.12rem !important;
 }
+
+.selected-publications-block p a {
+  color: #1d4ed8 !important;
+}
 </style>
 
 <div class="selected-publications-block">

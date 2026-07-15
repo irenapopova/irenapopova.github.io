@@ -112,6 +112,15 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if site.author.academia %}
+        <li><a href="{{ site.author.academia }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-academia-square ai-fw"></i> Academia.edu</a></li>
+      {% endif %}
+      {% if site.author.osf %}
+        <li><a href="{{ site.author.osf }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-osf-square ai-fw"></i> Open Science</a></li>
+      {% endif %}
+      {% if site.author.zenodo %}
+        <li><a href="{{ site.author.zenodo }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Zenodo</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
