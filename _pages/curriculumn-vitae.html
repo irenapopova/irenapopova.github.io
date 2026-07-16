@@ -1,0 +1,411 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+<div class="cv-page">
+  <section class="cv-hero">
+    <div class="cv-hero__content">
+      <p class="cv-kicker">Curriculum Vitae</p>
+      <h1 class="cv-hero__title">Irena Popova</h1>
+      <p class="cv-hero__summary">Independent Researcher | Applied Linguist | Full-Stack Developer | Educator</p>
+      <p class="cv-hero__summary">My work brings together language, learning, and computational systems through an interdisciplinary lens. I am interested in how multilingual AI, knowledge organisation, and digital education can support more transparent and human-centred technology. Across research and development, I focus on connecting analytical depth with practical digital design.</p>
+      <div class="cv-socials" aria-label="Social profiles">
+        {% if site.author.github %}
+          <a class="cv-social" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <i class="fab fa-github" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+        {% if site.author.gitlab %}
+          <a class="cv-social" href="{{ site.author.gitlab }}" target="_blank" rel="noopener noreferrer" aria-label="GitLab">
+            <i class="fab fa-gitlab" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+        <a class="cv-social" href="{{ site.author.bluesky | default: 'https://bsky.app/' }}" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+          <svg class="cv-social__svg" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M11.6 9.1C10.9 7.3 9.5 5 7.5 3.8 5.8 2.7 3.9 3 3.3 4.9c-.6 2 .3 4.7 2.8 6 .9.5 2 .8 3.1 1-1.1.2-2.2.5-3.1 1-2.5 1.3-3.4 4-2.8 6 .6 1.9 2.5 2.2 4.2 1.1 2-1.3 3.4-3.5 4.1-5.3V9.1Z"/>
+            <path d="M12.4 9.1C13.1 7.3 14.5 5 16.5 3.8c1.7-1.1 3.6-.8 4.2 1.1.6 2-.3 4.7-2.8 6-.9.5-2 .8-3.1 1 1.1.2 2.2.5 3.1 1 2.5 1.3 3.4 4 2.8 6-.6 1.9-2.5 2.2-4.2 1.1-2-1.3-3.4-3.5-4.1-5.3V9.1Z"/>
+            <path d="M11.15 8.4h1.7v7.3h-1.7z"/>
+            <circle cx="12" cy="6.8" r="1.15"/>
+            <path d="M11.7 5.9 10.6 4.4M12.3 5.9l1.1-1.5" fill="none" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/>
+          </svg>
+        </a>
+        {% if site.author.mastodon %}
+          <a class="cv-social" href="{{ site.author.mastodon }}" target="_blank" rel="noopener noreferrer" aria-label="Mastodon">
+            <svg class="cv-social__svg cv-social__svg--mastodon" viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="3" y="3" width="18" height="18" rx="5" ry="5" fill="#6364ff"/>
+              <path d="M8 16V9.8c0-1.8.9-2.8 2.4-2.8.9 0 1.6.4 2 1 .4-.6 1.1-1 2-1C15.9 7 17 8 17 9.8V16h-1.9v-5.7c0-1-.4-1.5-1.2-1.5-.8 0-1.3.6-1.3 1.7v3.1h-1.7v-3.1c0-1.1-.5-1.7-1.3-1.7-.8 0-1.2.5-1.2 1.5V16H8Z" fill="#ffffff"/>
+            </svg>
+          </a>
+        {% endif %}
+        <a class="cv-social" href="{% if site.author.bitbucket %}https://bitbucket.org/{{ site.author.bitbucket }}{% else %}https://bitbucket.org/{% endif %}" target="_blank" rel="noopener noreferrer" aria-label="Bitbucket">
+          <i class="fab fa-bitbucket" aria-hidden="true"></i>
+        </a>
+      </div>
+    </div>
+    <div class="cv-hero__panel">
+      <div class="cv-contact-list">
+        <div class="cv-contact-item">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fas fa-map-marker-alt"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">Location</span>
+            <span class="cv-contact-value">Berlin, Germany</span>
+          </div>
+        </div>
+        <a class="cv-contact-item cv-contact-item--link" href="https://www.irena-popova.com/research-and-academic-work">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fas fa-book-open"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">Research</span>
+            <span class="cv-contact-value">Research &amp; Academic Work</span>
+          </div>
+        </a>
+        <a class="cv-contact-item cv-contact-item--link" href="https://irenapopova.com/resume/">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fas fa-globe"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">Website</span>
+            <span class="cv-contact-value">Portfolio</span>
+          </div>
+        </a>
+        <a class="cv-contact-item cv-contact-item--link" href="https://irenapopova.com/blog/">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fas fa-pen-nib"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">Tech Blog</span>
+            <span class="cv-contact-value">Blog</span>
+          </div>
+        </a>
+        <a class="cv-contact-item cv-contact-item--link" href="https://github.com/irenapopova">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fab fa-github"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">GitHub</span>
+            <span class="cv-contact-value">@irenapopova</span>
+          </div>
+        </a>
+        <a class="cv-contact-item cv-contact-item--link" href="mailto:irenejpopova6@gmail.com">
+          <span class="cv-contact-icon" aria-hidden="true"><i class="fas fa-envelope"></i></span>
+          <div class="cv-contact-copy">
+            <span class="cv-contact-label">Email</span>
+            <span class="cv-contact-value">irenejpopova6@gmail.com</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Academic Profile</h2>
+    <article class="cv-card cv-card--feature">
+      <h3>Interdisciplinary Research Profile</h3>
+      <p>Independent researcher with an interdisciplinary background in applied linguistics, multilingual education, software engineering, and digital learning. My work examines how language, cognition, data, and computational systems shape the construction, organisation, and communication of knowledge in increasingly technology-mediated environments.</p>
+      <p>My research interests include natural language processing, human-centred and explainable artificial intelligence, knowledge representation, data integration, computational thinking, and educational technology. I am particularly interested in the development of multilingual intelligent systems that remain interpretable, context-sensitive, and responsive to human learning and decision-making.</p>
+      <p>Drawing on experience in linguistic analysis, academic writing, programming, and education, I connect theoretical perspectives from applied linguistics and cognitive learning with practical methods from software development and data-oriented research. This interdisciplinary approach supports the design and critical evaluation of digital systems that combine technical capability with semantic clarity, methodological transparency, and social responsibility.</p>
+    </article>
+
+    <div class="cv-grid cv-grid--two">
+      <article class="cv-card cv-card--feature">
+        <h3>My Workflow</h3>
+        <p>My work connects language, cognition, digital education, knowledge representation, and intelligent systems design. I am especially interested in how multilingual and explainable AI can support interpretation, learning, and responsible decision-making.</p>
+      </article>
+
+      <article class="cv-card">
+        <h3>Research Background</h3>
+        <p>Interdisciplinary researcher with a background in applied linguistics, multilingual education, software engineering, and digital learning.</p>
+        <p>I focus on multilingual natural language processing, data integration, knowledge extraction, explainable AI, educational technology, and intelligent information systems.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Research Interests</h2>
+    <div class="cv-pill-list">
+      <span class="cv-pill">Human-centred AI</span>
+      <span class="cv-pill">Explainable AI</span>
+      <span class="cv-pill">Natural language processing</span>
+      <span class="cv-pill">Multilingual language technologies</span>
+      <span class="cv-pill">Knowledge representation</span>
+      <span class="cv-pill">Knowledge extraction</span>
+      <span class="cv-pill">Information organisation</span>
+      <span class="cv-pill">Data integration</span>
+      <span class="cv-pill">Data quality</span>
+      <span class="cv-pill">Intelligent information systems</span>
+      <span class="cv-pill">Language and cognition</span>
+      <span class="cv-pill">Conceptual development</span>
+      <span class="cv-pill">Computational thinking</span>
+      <span class="cv-pill">Programming education</span>
+      <span class="cv-pill">Grammar awareness</span>
+      <span class="cv-pill">Digital learning</span>
+      <span class="cv-pill">Responsible AI</span>
+      <span class="cv-pill">Blockchain systems</span>
+      <span class="cv-pill">Emerging digital infrastructures</span>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Education</h2>
+    <div class="cv-grid">
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">Sept 2017 - 2021</p>
+        <h3>Software Engineering, SoftUni - Bulgaria</h3>
+        <p><span class="cv-label">Focus:</span> Fullstack Web Development</p>
+        <ul>
+          <li>Programming Basics with Java</li>
+          <li>Programming with JavaScript</li>
+          <li>JavaScript for Front-End - October 2017</li>
+          <li>Core Module - JS Essentials, JS Advanced, JS Apps (2018)</li>
+          <li>Web Module - NodeJS, React</li>
+          <li>Front-End Module - HTML &amp; CSS, CSS Advanced (2018)</li>
+          <li>React Web Applications Masterclass - October 2019</li>
+        </ul>
+      </article>
+
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">Oct 1993 - July 1998</p>
+        <h3>Master Degree in Applied Linguistics</h3>
+        <p><span class="cv-label">Institution:</span> South-West University - Neophit Rilski, Bulgaria</p>
+        <ul>
+          <li>English and German</li>
+          <li>Sociolinguistics and History</li>
+          <li>Computational Linguistics</li>
+          <li>British, American, and European Literature</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Work Experience</h2>
+    <div class="cv-grid">
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">May 2021 - April 2021</p>
+        <h3>Web Developer Trainee, JavaScript Teaching Assistant &amp; Ambassador</h3>
+        <p><span class="cv-label">Digital Career Institute, Berlin, Germany</span></p>
+        <ul>
+          <li>Developed workshops and projects using JavaScript and React.</li>
+          <li>Organized coding workshops and presented for DCI students.</li>
+          <li>Prepared presentations, exercises, and workshop lectures.</li>
+          <li>Supported new clients in German and English through coding workshops.</li>
+          <li>Helped explain the web development program and answer participant questions.</li>
+        </ul>
+      </article>
+
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">Sept 2017 - Aug 2019</p>
+        <h3>English &amp; Informatik Teacher</h3>
+        <p><span class="cv-label">Internationaler Bund, Neuenhagen bei Berlin, Germany</span></p>
+        <ul>
+          <li>Created a UI application for library management.</li>
+          <li>Brought design concepts to life with HTML, CSS, and JavaScript.</li>
+          <li>Implemented responsive design and tested usability.</li>
+          <li>Balanced functional and aesthetic design decisions.</li>
+          <li>Founded a Coding Club for teens to increase engagement in learning.</li>
+          <li>Attended GitHub Constellation and Jenkins events.</li>
+        </ul>
+      </article>
+
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">2011</p>
+        <h3>TEFL Teacher</h3>
+        <p><span class="cv-label">Darbi College, Sofia, Bulgaria</span></p>
+        <ul>
+          <li>Taught English as a Foreign Language to adults.</li>
+          <li>Prepared learners for Cambridge exams including IELTS, CPE, CAE, and FCE.</li>
+          <li>Prepared learners for TOEFL.</li>
+        </ul>
+      </article>
+
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">Fall 2010</p>
+        <h3>Research Assistant</h3>
+        <p><span class="cv-label">English Literature</span></p>
+        <ul>
+          <li>Supported academic research and writing.</li>
+          <li>Worked on thesis-related research tasks.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Skills</h2>
+    <div class="cv-pill-list">
+      <span class="cv-pill">JavaScript</span>
+      <span class="cv-pill">TypeScript</span>
+      <span class="cv-pill">React</span>
+      <span class="cv-pill">Vue</span>
+      <span class="cv-pill">Nuxt</span>
+      <span class="cv-pill">Node.js</span>
+      <span class="cv-pill">Python</span>
+      <span class="cv-pill">HTML &amp; CSS</span>
+      <span class="cv-pill">MongoDB</span>
+      <span class="cv-pill">Blockchain</span>
+      <span class="cv-pill">Applied Linguistics</span>
+      <span class="cv-pill">NLP</span>
+      <span class="cv-pill">Computational Thinking</span>
+      <span class="cv-pill">Digital Education</span>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Technical Skills</h2>
+    <div class="cv-grid cv-grid--three">
+      <article class="cv-card">
+        <h3>Programming</h3>
+        <div class="cv-pill-list">
+          <span class="cv-pill">Python</span>
+          <span class="cv-pill">JavaScript</span>
+          <span class="cv-pill">TypeScript</span>
+          <span class="cv-pill">HTML5</span>
+          <span class="cv-pill">CSS3</span>
+          <span class="cv-pill">SQL</span>
+          <span class="cv-pill">Basic Java</span>
+        </div>
+      </article>
+
+      <article class="cv-card">
+        <h3>Frameworks and Libraries</h3>
+        <div class="cv-pill-list">
+          <span class="cv-pill">Vue 3</span>
+          <span class="cv-pill">Nuxt</span>
+          <span class="cv-pill">React</span>
+          <span class="cv-pill">Node.js</span>
+          <span class="cv-pill">Express</span>
+          <span class="cv-pill">Vite</span>
+          <span class="cv-pill">Vue Router</span>
+        </div>
+      </article>
+
+      <article class="cv-card">
+        <h3>Databases and Data Technologies</h3>
+        <div class="cv-pill-list">
+          <span class="cv-pill">PostgreSQL</span>
+          <span class="cv-pill">Supabase</span>
+          <span class="cv-pill">MongoDB</span>
+          <span class="cv-pill">Relational data modelling</span>
+          <span class="cv-pill">API-based data integration</span>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Selected Research and Development Projects</h2>
+    <div class="cv-grid cv-grid--two">
+      <article class="cv-card cv-card--feature">
+        <h3>Astra Knowledge Lab</h3>
+        <p><span class="cv-label">Founder, Independent Researcher, and Developer</span></p>
+        <p>Development of an early-stage multilingual knowledge and media platform connecting artificial intelligence, education, research communication, technology, and lifelong learning.</p>
+        <ul>
+          <li>Multilingual knowledge organisation</li>
+          <li>AI-supported information systems</li>
+          <li>Educational content architecture</li>
+          <li>Research communication</li>
+          <li>Full-stack platform development</li>
+          <li>Data management and digital publishing</li>
+        </ul>
+      </article>
+
+      <article class="cv-card">
+        <h3>Educational Web and Coding Projects</h3>
+        <ul>
+          <li>Development of educational applications using Vue, Nuxt, JavaScript, Python, and SQL.</li>
+          <li>Design of project-based programming activities for secondary-school learners.</li>
+          <li>Development of digital publishing and school-media prototypes.</li>
+          <li>Implementation of applications using PostgreSQL and Supabase.</li>
+          <li>Creation of learning materials for HTML, CSS, JavaScript, Python, and computational thinking.</li>
+        </ul>
+      </article>
+
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Mentoring &amp; Volunteering Missions</h2>
+    <div class="cv-grid cv-grid--two">
+      <article class="cv-card cv-card--timeline">
+        <p class="cv-meta">Jan 2021</p>
+        <h3>Tech Writer &amp; Ambassador</h3>
+        <p><span class="cv-label">Women Tech Makers, Berlin, Germany</span></p>
+        <ul>
+          <li>Wrote beginner-friendly content on JavaScript, CSS, and Python.</li>
+          <li>Organized events and coding workshops in JavaScript fundamentals.</li>
+          <li>Helped organize Hack with Peers Nights focused on JavaScript, CSS, and React.</li>
+        </ul>
+      </article>
+
+      <article class="cv-card">
+        <p class="cv-meta">Volunteer Role</p>
+        <h3>JavaScript / React Mentor - FrontEnd Cycle</h3>
+        <p><span class="cv-label">ReDi School for Digital Integration</span></p>
+        <p>Supported learners with frontend development concepts, mentoring, and guided practice.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2 class="cv-collection-title">Publications</h2>
+    <ul class="cv-collection-list">
+      {% for post in site.publications %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-page-section">
+    <h2 class="cv-collection-title">Talks</h2>
+    <ul class="cv-collection-list">
+      {% for post in site.talks %}
+        {% include archive-single-talk-cv.html %}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Open Source Contributions</h2>
+    <div class="cv-card">
+      <h3>Planned Contribution Focus</h3>
+      <p>I am currently reviewing open-source contribution opportunities in AI tooling, documentation, and learning resources, with particular interest in NVIDIA- and OpenAI-related ecosystems.</p>
+      <ul>
+        <li>Developer tools and educational resources for AI learning</li>
+        <li>Documentation, examples, and contribution pathways</li>
+        <li>Applied AI, multilingual systems, and human-centred technology</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="cv-page-section">
+    <h2 class="cv-collection-title">Teaching</h2>
+    <ul class="cv-collection-list">
+      {% for post in site.teaching %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="cv-page-section">
+    <h2>Volunteering</h2>
+    <div class="cv-card">
+      <div class="cv-service-groups">
+        <div>
+          <p class="cv-service-title">Tech Organizations</p>
+          <ul class="cv-check-list">
+            <li><strong>OpenTechSchool Berlin, Germany</strong></li>
+            <li><strong>Women Tech Makers Berlin</strong></li>
+            <li><strong>Google Developer Group Berlin</strong></li>
+          </ul>
+        </div>
+        <div>
+          <p class="cv-service-title">Writers / Language Associations</p>
+          <ul class="cv-check-list">
+            <li><strong>ELTAB</strong></li>
+            <li><strong>IATEFL</strong></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

@@ -112,6 +112,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.mastodon %}
+        <li><a href="{{ author.mastodon }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+      {% endif %}
       {% if site.author.academia %}
         <li><a href="{{ site.author.academia }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-academia-square ai-fw"></i> Academia.edu</a></li>
       {% endif %}

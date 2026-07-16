@@ -12,7 +12,6 @@ vgwort:
 ---
 
 
-
 This is a short draft post on natural language processing in education, especially where applied linguistics, computer science education, and educational innovation meet. It is intentionally brief for now so we can test the blog layout with real titles.
 
 Natural language processing has become increasingly visible in education through writing assistants, automated feedback systems, conversational tutors, translation tools, reading-support applications, and generative artificial intelligence. Yet its educational significance cannot be understood by examining technical performance alone. A system may identify grammatical patterns, classify responses, generate explanations, or imitate instructional dialogue without necessarily contributing to meaningful learning. The central question is therefore not simply what natural language processing can do, but what forms of intellectual, linguistic, and pedagogical development it should support.
