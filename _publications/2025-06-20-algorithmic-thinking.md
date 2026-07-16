@@ -5,6 +5,7 @@ permalink: /publication/2025-06-20-algorithmic-thinking
 excerpt: "An academic article on algorithmic thinking as a bridge between language, problem-solving, cognitive learning, and programming education."
 date: 2025-06-20
 venue: "Research and Academic Work"
+tags: [Algorithmic Thinking, Computational Thinking, Programming Education, Cognitive Learning, Problem-Solving, Abstraction, Decomposition, Pattern Recognition, Debugging, Educational Technology, Computer Science Education, Digital Literacy]
 publication_area: "Programming Education and Computational Thinking"
 citation: "Irena Popova (2025). &quot;Algorithmic Thinking as an Educational Capacity.&quot; <i>Research and Academic Work</i>."
 ---
@@ -12,23 +13,6 @@ Algorithmic thinking is more than a technical skill. It is an educational capaci
 
 This article examines how algorithmic thinking can be understood as a bridge between human interpretation and formal computational procedure. It considers how learners move from verbal description to ordered action, from conceptual understanding to step-based reasoning, and from everyday explanation to structured problem representation. Particular attention is given to the relationship between language, cognition, and programming education. The article argues that algorithmic thinking supports not only coding, but also broader forms of learning that require sequencing, comparison, abstraction, and decision-making.
 
----
-
-title: "Algorithmic Thinking as an Educational Capacity"
-collection: publications
-type: "Independent Research Article"
-permalink: /publication/2025-06-20-algorithmic-thinking
-excerpt: "An interdisciplinary examination of algorithmic thinking as a bridge between language, problem-solving, cognitive learning, and programming education."
-date: 2025-06-20
-venue: "Research and Academic Work"
-publication_area: "Computational Thinking and Programming Education"
-status: "Independent research article"
-author: "Irena Popova"
-tags: [Algorithmic Thinking, Computational Thinking, Programming Education, Cognitive Learning, Problem-Solving, Applied Linguistics, Abstraction, Pattern Recognition, Debugging, Digital Education, Educational Technology, Computer Science Education]
-citation: 'Popova, I. (2025). "Algorithmic Thinking as an Educational Capacity." <i>Research and Academic Work</i>.'
---------------------------------------------------------------------------------------------------------------------
-
-# Algorithmic Thinking as an Educational Capacity
 
 ## Abstract
 
