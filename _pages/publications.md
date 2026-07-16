@@ -108,8 +108,8 @@ author_profile: true
 
 <div class="selected-publication-item">
   <p class="selected-publication-title">Algorithmic Thinking as an Educational Capacity</p>
-  <p>Irena Popova (2026). Academic article on algorithmic thinking as a bridge between language, problem-solving, cognitive learning, and programming education.</p>
-  <p>Access publication here</p>
+  <p>Irena Popova (2025). Academic article on algorithmic thinking as a bridge between language, problem-solving, cognitive learning, and programming education.</p>
+  <p><a href="{{ base_path }}/publication/2025-06-20-algorithmic-thinking">Access publication here</a> <a href="{{ base_path }}/publication/2025-06-20-algorithmic-thinking">🔗</a></p>
 </div>
 
 <div class="selected-publication-item">
