@@ -273,19 +273,19 @@ Human-centred educational NLP begins with the needs, rights, abilities, and limi
 
 A human-centred framework should include several principles.
 
-### Pedagogical purpose before technical capability
+- ### Pedagogical purpose before technical capability
 
 A system should be introduced because it supports a defined learning or teaching objective, not merely because the technology can perform the task.
 
-### Assistance without unnecessary replacement
+- ### Assistance without unnecessary replacement
 
 Automation should reduce repetitive burdens and expand access while preserving the forms of interaction, judgment, and reflection that are educationally important.
 
-### Transparency
+- ### Transparency
 
 Users should understand what the system analyses, how its output should be interpreted, and where its limitations lie.
 
-### Linguistic and cultural inclusion
+- ### Linguistic and cultural inclusion
 
 Systems should be evaluated across languages, dialects, learner groups, and educational traditions rather than assuming that performance in one context generalises universally.
 
@@ -307,31 +307,31 @@ Educational impact should be examined in authentic settings over time, including
 
 These principles position NLP as a form of educational infrastructure whose design influences how knowledge, communication, and authority are organised.
 
-## Future Research Directions
+- ## Future Research Directions
 
 Several areas require deeper interdisciplinary research.
 
-### Multilingual and low-resource educational NLP
+- ### Multilingual and low-resource educational NLP
 
 Models need stronger evaluation across languages and educational contexts. Research should include local educators and language communities in dataset development, annotation, and interpretation.
 
-### Feedback that develops independent reasoning
+- ### Feedback that develops independent reasoning
 
 Future systems should distinguish between correcting output and supporting the learner’s ability to identify and resolve similar problems independently.
 
-### Linguistically informed evaluation
+- ### Linguistically informed evaluation
 
 Educational NLP should make greater use of concepts from discourse analysis, second-language acquisition, pragmatics, grammar, and multilingual education.
 
-### Longitudinal learning research
+- ### Longitudinal learning research
 
 A system may improve one assignment without producing lasting development. Studies should examine whether learners retain and transfer what they have learned.
 
-### Transparent learner modelling
+- ### Transparent learner modelling
 
 Systems that estimate knowledge, ability, or risk should communicate uncertainty and avoid reducing learners to static profiles.
 
-### Teacher–AI collaboration
+- ### Teacher–AI collaboration
 
 Research should identify which forms of analysis genuinely strengthen professional judgment and which merely shift work or create new monitoring demands.
 
@@ -339,11 +339,11 @@ Research should identify which forms of analysis genuinely strengthen profession
 
 Generated educational answers should remain connected to sources, transformations, and evidence so that learners can evaluate rather than merely consume information.
 
-### NLP literacy
+- ### NLP literacy
 
 Learners and educators need an understanding of how language technologies represent text, learn from data, generate responses, and fail. NLP literacy should become part of broader digital and AI literacy.
 
-## Conclusion
+## Final grasp
 
 Natural language processing has the capacity to reshape many forms of educational activity because language is central to teaching, learning, assessment, and knowledge construction. NLP can make feedback more accessible, support multilingual participation, organise large collections of learner responses, assist teachers, and create new forms of dialogue with educational materials.
 
